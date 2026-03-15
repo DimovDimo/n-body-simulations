@@ -5,6 +5,8 @@ Created by **[Dimo Dimov](https://github.com/DimovDimo)**
 
 ---
 
+![Visualizations](README.md%20resources/Visualizations.png)
+
 ## 🖥️ Alternative Viewing
 The primary project and all its complex calculations are contained within the **`N-body Simulations.ipynb`** file. However, if you experience issues loading interactive visualizations or animations in your browser, please open the **`N-body Simulations.html`** file. This provides a pre-rendered, stable version of the entire notebook for immediate review.
 

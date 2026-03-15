@@ -1,10 +1,6 @@
 # Multi-Scale N-Body Framework
 ### An Experimental Journey from Planck Scales to Galactic Dynamics
 
-[![Python 3.8+](https://img.shields.io)](https://www.python.org)
-[![License: MIT](https://img.shields.io)](https://opensource.org)
-[![Jupyter Lab](https://img.shields.io)](https://jupyter.org)
-
 Created by **Dimo Dimov**
 
 ---
@@ -17,8 +13,8 @@ It serves as both a physical simulator and a mathematical laboratory for testing
 ## 🚀 Core Objectives
 *   **Simulate** stable and chaotic N-body systems using high-precision integrators.
 *   **Verify** Keplerian laws and orbital stability across different scales.
-*   **Optimize** gravitational force calculations using the **Barnes-Hut algorithm** ($O(N \log N)$).
-*   **Visualize** complex trajectories using interactive 3D rendering (Plotly) and smooth animations (Matplotlib).
+*   **Optimize** gravitational force calculations using the **Barnes-Hut algorithm**.
+*   **Visualize** complex trajectories using interactive 3D rendering and smooth animations.
 
 ## 🛠️ Technical Features
 ### 1. Physics Engine
@@ -37,7 +33,33 @@ It serves as both a physical simulator and a mathematical laboratory for testing
 ## 📦 Installation & Usage
 To run this project in your local **JupyterLab** environment:
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd n-body-simulations
+   git clone https://github.com/DimovDimo/n-body-simulations
+   ```
+
+## 🚀 Getting Started
+
+To explore the simulations, follow these steps in your environment:
+
+1. **Open** the notebook: `N-body Simulations.ipynb`.
+2. **Execute** the cells **sequentially** from top to bottom. This ensures that all physical constants, helper functions, and data structures are correctly initialized.
+3. **Wait** for the rendering: Some high-precision 3D animations may take a few moments to process.
+
+## 📊 Visualizations
+The framework is designed for deep visual analysis and supports multiple rendering styles to enhance the user experience:
+
+*   **Interactive 3D:** Powered by `Plotly`. These environments allow you to **rotate, zoom, and pan** around chaotic trajectories to inspect them from any angle. Hover over bodies to see real-time X, Y, and Z coordinates.
+*   **Space Aesthetic:** High-contrast **dark mode** visualizations optimized for stellar dynamics, featuring glow effects for stars and translucent orbital paths.
+*   **Mathematical Plots:** Includes **space-time diagrams** (for 1D simulations), energy conservation graphs, and comparisons of computational scaling ($O(N^2)$ vs $O(N \log N)$).
+
+## ⚠️ Important Disclaimer
+**Speculative Content and Potential Inaccuracy**
+
+This project is an experimental exploration of N-body systems and **blends established scientific facts with highly speculative models**. Please be advised that:
+*   The content is intended for **educational and creative purposes only**.
+*   It contains theoretical derivations and implementation logic that may differ from standard academic models.
+*   **It must not be taken as absolute scientific truth** or used as a reference for professional astronomical navigation or peer-reviewed research.
+
+---
+*Created by [Dimo Dimov](https://github.com/DimovDimo)*

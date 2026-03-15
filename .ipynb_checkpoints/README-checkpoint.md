@@ -1,9 +1,12 @@
 # Multi-Scale N-Body Framework
 ### An Experimental Journey from Planck Scales to Galactic Dynamics
 
-Created by **Dimo Dimov**
+Created by **[Dimo Dimov](https://github.com/DimovDimo)**
 
 ---
+
+## 🖥️ Alternative Viewing
+The primary project and all its complex calculations are contained within the **`N-body Simulations.ipynb`** file. However, if you experience issues loading interactive visualizations or animations in your browser, please open the **`N-body Simulations.html`** file. This provides a pre-rendered, stable version of the entire notebook for immediate review.
 
 ## ⚠️ Important Disclaimer
 **Speculative Content and Potential Inaccuracy**
@@ -18,7 +21,7 @@ This repository contains a comprehensive computational exploration of **orbital 
 
 It serves as both a physical simulator and a mathematical laboratory for testing stability, resonance, and deterministic chaos in N-body systems.
 
-## 🚀 Core Objectives
+## 🔭 Core Objectives
 *   **Simulate** stable and chaotic N-body systems using high-precision integrators.
 *   **Verify** Keplerian laws and orbital stability across different scales.
 *   **Optimize** gravitational force calculations using the **Barnes-Hut algorithm**.
@@ -54,6 +57,8 @@ To explore the simulations, follow these steps in your environment:
 2. **Execute** the cells **sequentially** from top to bottom. This ensures that all physical constants, helper functions, and data structures are correctly initialized.
 3. **Wait** for the rendering: Some high-precision 3D animations may take a few moments to process.
 
+> **Alternative Viewing:** The primary project and all its complex calculations are contained within the `N-body Simulations.ipynb` file. However, if you experience issues loading interactive visualizations or animations in your browser, please open the **`N-body Simulations.html`** file. This provides a pre-rendered, stable version of the entire notebook for immediate review.
+
 ## 📊 Visualizations
 The framework is designed for deep visual analysis and supports multiple rendering styles to enhance the user experience:
 
@@ -62,4 +67,5 @@ The framework is designed for deep visual analysis and supports multiple renderi
 *   **Mathematical Plots:** Includes **space-time diagrams**, energy conservation graphs, and comparisons of computational scaling.
 
 ---
-*Created by [Dimo Dimov](https://github.com/DimovDimo)*
+
+**Created by [Dimo Dimov](https://github.com/DimovDimo)**

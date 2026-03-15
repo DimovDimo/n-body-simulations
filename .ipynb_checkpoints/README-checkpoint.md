@@ -5,6 +5,14 @@ Created by **Dimo Dimov**
 
 ---
 
+## ⚠️ Important Disclaimer
+**Speculative Content and Potential Inaccuracy**
+
+This project is an experimental exploration of N-body systems and **blends established scientific facts with highly speculative models**. Please be advised that:
+*   The content is intended for **educational and creative purposes only**.
+*   It contains theoretical derivations and implementation logic that may differ from standard academic models.
+*   **It must not be taken as absolute scientific truth** or used as a reference for professional astronomical navigation or peer-reviewed research.
+
 ## 🌌 Project Overview
 This repository contains a comprehensive computational exploration of **orbital mechanics and gravitational chaos**. The project transitions from the fundamental laws of motion to the complex, unpredictable "dance" of multiple celestial bodies interacting in 1D, 2D, and 3D space.
 
@@ -27,7 +35,7 @@ It serves as both a physical simulator and a mathematical laboratory for testing
 *   **The 3-Body Problem:**
     *   **Figure-Eight Orbit:** A remarkable periodic solution where three equal masses follow a single path.
     *   **Hierarchical Systems:** Stable Sun-Planet-Moon configurations.
-    *   **Chaotic Dynamics:** Demonstration of the **Butterfly Effect** by introducing microscopic perturbations ($10^{-4}$) to initial conditions.
+    *   **Chaotic Dynamics:** Demonstration of the **Butterfly Effect** by introducing microscopic perturbations to initial conditions.
 *   **Large Scale N-Body:** Transitioning towards galaxy-scale simulations using hierarchical spatial partitioning.
 
 ## 📦 Installation & Usage
@@ -51,15 +59,7 @@ The framework is designed for deep visual analysis and supports multiple renderi
 
 *   **Interactive 3D:** Powered by `Plotly`. These environments allow you to **rotate, zoom, and pan** around chaotic trajectories to inspect them from any angle. Hover over bodies to see real-time X, Y, and Z coordinates.
 *   **Space Aesthetic:** High-contrast **dark mode** visualizations optimized for stellar dynamics, featuring glow effects for stars and translucent orbital paths.
-*   **Mathematical Plots:** Includes **space-time diagrams** (for 1D simulations), energy conservation graphs, and comparisons of computational scaling ($O(N^2)$ vs $O(N \log N)$).
-
-## ⚠️ Important Disclaimer
-**Speculative Content and Potential Inaccuracy**
-
-This project is an experimental exploration of N-body systems and **blends established scientific facts with highly speculative models**. Please be advised that:
-*   The content is intended for **educational and creative purposes only**.
-*   It contains theoretical derivations and implementation logic that may differ from standard academic models.
-*   **It must not be taken as absolute scientific truth** or used as a reference for professional astronomical navigation or peer-reviewed research.
+*   **Mathematical Plots:** Includes **space-time diagrams**, energy conservation graphs, and comparisons of computational scaling.
 
 ---
 *Created by [Dimo Dimov](https://github.com/DimovDimo)*

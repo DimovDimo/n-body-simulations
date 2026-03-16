@@ -5,6 +5,7 @@ Created by **[Dimo Dimov](https://github.com/DimovDimo)**
 
 ---
 
+![Gource Visualization](README.md%20resources/gource_video.gif)
 ![Visualizations](README.md%20resources/Visualizations.png)
 
 ## 🖥️ Alternative Viewing

@@ -1,0 +1,261 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                             TEXT STATISTICS REPORT                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+  File    : Plain text - N-body Simulations.txt
+  Analyzed: 16.03.2026 y., 21:56:23 h.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  01. CORE COUNTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Characters         : 289 889
+  Characters (no spaces)   : 238 052
+  Letters                  : 174 482
+  Digits                   : 10 074
+  Spaces                   : 51 837
+  Punctuation Marks        : 49 973
+  Total Words              : 31 764
+  Total Sentences          : 1679
+  Paragraphs               : 1294
+  Total Lines              : 6495
+  Non-Empty Lines          : 5197
+  Total Syllables          : 53 321
+  Complex Words (3+ syl.)  : 5609
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  02. AVERAGES & RATIOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Avg Word Length          : 4.80 characters
+  Avg Sentence Length      : 9.83 words
+  Avg Syllables / Word     : 1.68
+  Avg Chars / Sentence     : 141.78
+  Avg Words / Paragraph    : 24.55
+  Avg Sentences / Para     : 1.30
+  Vowel Ratio              : 35.9% (62 622 vowels)
+  Consonant Ratio          : 64.1% (111 860 consonants)
+  Uppercase Ratio          : 6.5% (11 353 uppercase letters)
+  Complex Word %           : 17.7%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  03. READABILITY SCORES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Flesch Reading Ease      : 45.6 — Difficult — College level
+  Flesch-Kincaid Grade     : 11.6 (Grade 12)
+  Gunning Fog Index        : 14.6 — Difficult · college level
+  Estimated Reading Time   : 2h 39m (200 wpm)
+  Estimated Speaking Time  : 4h 4m (130 wpm)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  04. VOCABULARY & LEXICAL DIVERSITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Unique Words (total)     : 3148
+  Unique Words (no stops)  : 3016
+  Hapax Legomena           : 1334 (words appearing exactly once)
+  Type-Token Ratio (TTR)   : 9.9%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  05. TOP 20 MOST FREQUENT WORDS (all)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  01. the                       1278
+  02. a                         608
+  03. np                        597
+  04. of                        543
+  05. in                        434
+  06. i                         415
+  07. plt                       403
+  08. for                       383
+  09. to                        380
+  10. n                         360
+  11. is                        317
+  12. ax                        305
+  13. and                       288
+  14. cell                      283
+  15. r                         276
+  16. dt                        251
+  17. b                         250
+  18. g                         250
+  19. color                     247
+  20. body                      233
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  06. TOP 20 MOST FREQUENT WORDS (no stopwords)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  01. np                        597
+  02. plt                       403
+  03. ax                        305
+  04. cell                      283
+  05. dt                        251
+  06. color                     247
+  07. body                      233
+  08. mass                      223
+  09. pos                       216
+  10. mathbf                    209
+  11. alpha                     179
+  12. array                     151
+  13. steps                     146
+  14. markdown                  142
+  15. frac                      139
+  16. energy                    138
+  17. plot                      136
+  18. code                      122
+  19. range                     117
+  20. label                     115
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  07. TOP 20 BIGRAMS (2-word phrases)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  01. np array                            142
+  02. cell markdown                       137
+  03. of the                              124
+  04. n body                              113
+  05. in range                            112
+  06. mathbf r                            104
+  07. cell code                           96
+  08. i in                                71
+  09. for i                               70
+  10. show cell                           63
+  11. plt show                            62
+  12. np random                           61
+  13. is the                              56
+  14. grid true                           56
+  15. to the                              52
+  16. in the                              52
+  17. np sum                              52
+  18. body problem                        50
+  19. o n                                 50
+  20. g softening                         49
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  08. TOP 20 TRIGRAMS (3-word phrases)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  01. for i in                                      66
+  02. i in range                                    62
+  03. plt show cell                                 60
+  04. show cell markdown                            60
+  05. np array np                                   45
+  06. plt style use                                 42
+  07. np linalg norm                                39
+  08. array np array                                38
+  09. plt figure figsize                            35
+  10. cell code def                                 35
+  11. in range steps                                34
+  12. mathbf r ij                                   34
+  13. cell markdown the                             32
+  14. color colors i                                32
+  15. plt subplots figsize                          31
+  16. n body simulations                            29
+  17. dt dt dt                                      26
+  18. pos mass g                                    26
+  19. the n body                                    25
+  20. mass g softening                              25
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  09. SENTENCE ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Sentences          : 1679
+  Shortest Sentence        : 0 words
+  Longest Sentence         : 90 words
+  Avg Sentence Length      : 9.83 words
+  Questions (?)            : 7
+  Exclamations (!)         : 4
+
+  Sentence Length Distribution:
+  1-5 words: 855 sentences
+  6-10 words: 230 sentences
+  11-15 words: 181 sentences
+  16-20 words: 149 sentences
+  21-30 words: 164 sentences
+  31-50 words: 73 sentences
+  51+ words: 27 sentences
+
+  Shortest Sentence: "inset_locator import zoomed_inset_axes, mark_inset
+
+# --- 4."
+  Longest Sentence : "The gravitational (or electrostatic) potential $\Phi$ at a target point $z$ due to a source at $z_0$ is given by:
+
+$$\Phi(z) = \text{Re} \{ \ln(z - z_0) \}$$
+
+### Multipole Expansion in 2D
+If we have a cluster of particles $\{z_i\}$ with masses $\{m_i\}$ centered around $z_c$, the potential at a distant point $z$ is approximated by:
+$$\Phi(z) \approx a_0 \ln(z - z_c) + \sum_{k=1}^{p} \frac{a_k}{(z - z_c)^k}$$
+
+Where the **Multipole Coefficients** $a_k$ are:
+- $a_0 = \sum m_i$ (Total mass)
+- $a_k"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  10. WORD LENGTH DISTRIBUTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  1 chars: 3584 words
+  2 chars: 4289 words
+  3 chars: 4429 words
+  4 chars: 4443 words
+  5 chars: 3890 words
+  6 chars: 3132 words
+  7 chars: 2114 words
+  8 chars: 1865 words
+  9 chars: 1644 words
+  10 chars: 973 words
+  11 chars: 584 words
+  12 chars: 420 words
+  13 chars: 309 words
+  14 chars: 71 words
+  15 chars: 17 words
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  11. LETTER FREQUENCY (A-Z)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  A: 14858     B: 2850     C: 7757     D: 5556     E: 18166     F: 3986     G: 3710     H: 4870     I: 13749     J: 551     K: 976     L: 10386     M: 5344     N: 11085     O: 11892     P: 6270     Q: 409     R: 11065     S: 11942     T: 15812     U: 3957     V: 2192     W: 1553     X: 1878     Y: 2930     Z: 738
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  12. CHARACTER BREAKDOWN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Letters            : 174 482
+  Uppercase Letters        : 11 353
+  Lowercase Letters        : 163 129
+  Vowels                   : 62 622
+  Consonants               : 111 860
+  Digits                   : 10 074
+  Spaces                   : 51 837
+  Punctuation              : 49 973
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  13. PUNCTUATION BREAKDOWN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  '-' : 11337
+  '.' : 4995
+  ',' : 4913
+  '(' : 3537
+  ')' : 3537
+  ''' : 1666
+  ':' : 1453
+  '[' : 1321
+  ']' : 1321
+  '"' : 1157
+  '/' : 506
+  '—' : 234
+  ';' : 175
+  '!' : 10
+  '?' : 7
+  '–' : 7
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  14. MISCELLANEOUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  URLs detected            : 0
+  Email addresses          : 0
+  Numbers / numeric tokens : 4836
+  Emojis                   : 18
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  15. PARAGRAPH ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Paragraphs         : 1294
+  Shortest Paragraph       : 0 words
+  Longest Paragraph        : 501 words
+  Avg Words / Paragraph    : 24.55
+  Avg Sentences / Para     : 1.30
+
+══════════════════════════════════════════
+  Dimo Dimov
+══════════════════════════════════════════
